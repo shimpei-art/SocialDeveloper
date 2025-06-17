@@ -614,6 +614,7 @@ Tomoya Okuno, motonuko<br/>
 2511298 - Takahiro Monno </br>
 2411415 - Settewong Tasha </br>
 2511278 - Takashi Matsumoto - Appletea0673 <br/>
+2511224 - Shimpei Nishiyama - shimpei-art <bar/>
 2511363 – LU TONG <br/>
 2511092 - Ryosei Kuge (githubid is nobRe03) <br/>
 2511329 - Hongwei Hu </br>
